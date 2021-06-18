@@ -471,7 +471,7 @@
 
 笔记内容来自知识星球--齐俊杰的读书圈的《基金投资入门与实战技巧》
 
-> <div align="left"><img src="https://raw.githubusercontent.com/kenfang119/pics/main/book_reading/book_invest_zsxqqjj_invatition.jpg" width="666" /></div>
+> <div align="left"><img src="https://raw.githubusercontent.com/kenfang119/pics/main/book_reading/book_invest_zsxqqjj_invatition.jpg" width="888" /></div>
 
 感兴趣可以扫二维码加入`读书圈`，内有200多本涉及**投资**/**商业**/**个人成长**的书籍精讲，外加持续不断的更新。学习投资可扫上面的二维码加入`粉丝群`，理财基础普及可加入`小白集训练营`
 

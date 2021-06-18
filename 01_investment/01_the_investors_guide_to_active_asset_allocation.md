@@ -42,8 +42,6 @@
 # 积极型资产配置指南：马丁 J 普林格
 
 > 内容来源：听书笔记、内容来自知识星球--齐俊杰的读书圈的《积极型资产配置指南——经济周期与六阶段投资时钟 》
->
-> <div align="left"><img src="https://raw.githubusercontent.com/kenfang119/pics/main/book_reading/knowledage_planet_laoqi_book.jpg" width="220" /></div>
 
 ## 总论
 
