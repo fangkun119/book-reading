@@ -4,7 +4,9 @@
 
 > <div align="left"><img src="https://raw.githubusercontent.com/kenfang119/pics/main/book_reading/reading_the_little_book_of_valuation_cover.jpg" width="200" /></div>
 >
-> 笔记备注：这本书的内容过于专业和理论，操作比较难。个人建议不用花力气读、简单了解一下就好。另外下面附了些更常用的`相对估值指标`的链接，会更加实用。
+> 笔记备注：这本书的内容过于专业和理论，操作比较难。个人建议不用花力气读，我也是之前花了一晚的时间，用别人的笔记简单了解了一下。
+>
+> 下面附了些更常用的`相对估值指标`的链接，会更加实用。
 >
 > [`03_valuation/01_市盈率_PE.md`](03_valuation/01_市盈率_PE.md)
 >
