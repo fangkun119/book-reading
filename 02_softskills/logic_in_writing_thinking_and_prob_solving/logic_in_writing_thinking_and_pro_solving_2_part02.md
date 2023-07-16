@@ -4,7 +4,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*-->
 
-- [金字塔原理2-实战篇(第2篇): 金字塔内部结构](#%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%862-%E5%AE%9E%E6%88%98%E7%AF%87%E7%AC%AC2%E7%AF%87-%E9%87%91%E5%AD%97%E5%A1%94%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84)
 - [练习2：建立纵向关系](#%E7%BB%83%E4%B9%A02%E5%BB%BA%E7%AB%8B%E7%BA%B5%E5%90%91%E5%85%B3%E7%B3%BB)
   - [2.1 引导纵向的“疑问——回答”式对话](#21-%E5%BC%95%E5%AF%BC%E7%BA%B5%E5%90%91%E7%9A%84%E7%96%91%E9%97%AE%E5%9B%9E%E7%AD%94%E5%BC%8F%E5%AF%B9%E8%AF%9D)
     - [练习2-1：太平洋的亚洲](#%E7%BB%83%E4%B9%A02-1%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E4%BA%9A%E6%B4%B2)

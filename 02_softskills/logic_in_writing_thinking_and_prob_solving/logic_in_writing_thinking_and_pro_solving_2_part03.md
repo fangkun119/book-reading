@@ -4,7 +4,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*-->
 
-- [金字塔原理2-实战篇(第3篇): 构建金字塔](#%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%862-%E5%AE%9E%E6%88%98%E7%AF%87%E7%AC%AC3%E7%AF%87-%E6%9E%84%E5%BB%BA%E9%87%91%E5%AD%97%E5%A1%94)
 - [练习4：序言的写法](#%E7%BB%83%E4%B9%A04%E5%BA%8F%E8%A8%80%E7%9A%84%E5%86%99%E6%B3%95)
   - [4.1 决定读者遇到的第一个问题](#41-%E5%86%B3%E5%AE%9A%E8%AF%BB%E8%80%85%E9%81%87%E5%88%B0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98)
     - [4.1.1 写序言的要点](#411-%E5%86%99%E5%BA%8F%E8%A8%80%E7%9A%84%E8%A6%81%E7%82%B9)
