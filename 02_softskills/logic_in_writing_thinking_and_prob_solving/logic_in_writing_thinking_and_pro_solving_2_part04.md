@@ -82,7 +82,7 @@
 
 <div align="left"><img src="pics/liwt2_ch06_exec_6a1.jpg" width="400" /></div>
 
-
+时间顺序
 
 #### 练习6A-2
 
@@ -163,7 +163,13 @@
 
 <div align="left"><img src="pics/liwt2_ch06_a13.jpg" width="400" /></div>
 
+顶部：我们需要新的经营模式
 
+底部：
+
+1. 要能预测和满足顾客的需要（和顾客互动成功）
+2. 预测和回应员工的需要
+3. 维持有生产力的工作环境（支持高效率学习，促进学习和发展，面对连续变动时有更多弹性和承受变动的能力）
 
 #### 练习6B-3：项目计划超支的合理阐述
 
@@ -237,6 +243,14 @@
 <div align="left"><img src="pics/liwt2_ch06_exec_6c1_a.jpg" width="500" /></div>
 
 <div align="left"><img src="pics/liwt2_ch06_a13.jpg" width="500" /></div>
+
+顶部：扩大基金平台的规模、提高收益率（3/4/5）
+
+底部：
+
+1. 提供卓越的产品（1）
+2. 提高知名度（2）
+3. 自动化以降低成本（6）
 
 #### 练习6C2：第一阶段的步骤
 
@@ -321,6 +335,16 @@
 <div align="left"><img src="pics/liwt2_ch06_a13.jpg" width="500" /></div>
 
 <div align="left"><img src="pics/liwt2_ch06_exec_6d1_b.jpg" width="500" /></div>
+
+顶部：环境问题发展的速度，由其中牵扯“情绪”的程度决定（4）
+
+底部：
+
+左：威胁的程度（1、2、3、9）
+
+中：预防或消除环境问题的能力（5、6、7）
+
+右：游说活动的有效性（8）
 
 #### 练习6D-2：在土耳其设立一家度假旅馆
 

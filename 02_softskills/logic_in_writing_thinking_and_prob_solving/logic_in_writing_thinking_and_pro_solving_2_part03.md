@@ -143,19 +143,23 @@ Q＝设计得当的环保标准可以推动创新方案产生吗？
 
 ####  练习4A5：董事会的任务
 
-<div align="left"><img src="pics/liwt2_ch04_4_1_2_4a_5.jpg" width="600" /></div>
+<div align="left"><img src="pics/liwt2_ch04_4_1_2_4a_6.jpg" width="600" /></div>
 
-
+~~~txt 
+S: 董事会现在可以自由进行计划工作
+C: 并没有准备好进行计划的工作
+Q: 我们应该如何准备
+~~~
 
 ####  练习4A6：远离日本市场
 
-<div align="left"><img src="pics/liwt2_ch04_4_1_2_4a_6.jpg" width="600" /></div>
+<div align="left"><img src="pics/liwt2_ch04_4_1_2_4a_7.jpg" width="600" /></div>
 
 
 
 ####  练习4A7：电视收视率的下降
 
-<div align="left"><img src="pics/liwt2_ch04_4_1_2_4a_7.jpg" width="600" /></div>
+<div align="left"><img src="pics/liwt2_ch04_4_1_2_4a_5.jpg" width="600" /></div>
 
 
 
@@ -373,6 +377,10 @@ Q＝这些抱怨是真的吗？
 
 <div align="left"><img src="pics/liwt2_ch05_5_2_1_5b5_b.jpg" width="600" /></div>
 
+
+
+
+
 #### 练习5B-6：现场销售会议
 
 (略：间原书)
@@ -436,6 +444,17 @@ Q＝这些抱怨是真的吗？
 <div align="left"><img src="pics/liwt2_ch05_5_3_2_5c_1_a.jpg" width="600" /></div>
 
 <div align="left"><img src="pics/liwt2_ch05_5_3_2_5c_1_b.jpg" width="600" /></div>
+
+顶部：科技日新月异的发展浪潮、与物种演化史上的起伏兴衰颇为类似
+
+底部：
+
+1) 快速成长、获得成功时：科技规模小、反应速度快
+2) 科技日益成熟稳定后：趋于稳定和保守
+3) 科技规模巨大反应迟钝时：会因无法适应变化而腿长
+4) 小型的反应快速的替代性新科技准备接收老迈科技衰亡留下的利基空间
+
+推理类型：归纳推理
 
 #### 练习5C02：论美国人的处境
 
